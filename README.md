@@ -10,3 +10,5 @@ Hope your GPA+++!
 ## v0.1
 &emsp;&emsp;Respository created.    
 &emsp;&emsp;按照“开课学院——课程”创建了文件目录。
+## v0.2
+&emsp;&emsp;添加了部分课程内容。
